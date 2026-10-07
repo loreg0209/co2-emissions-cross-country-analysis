@@ -4,7 +4,7 @@
 suppressPackageStartupMessages({
   library(dplyr); library(tidyr); library(purrr); library(tibble); library(ggplot2)
   library(xgboost)      # XGBoost
-  library(ranger)       # Random Forest (opzionale)
+  library(ranger)       # Random Forest
 })
 
 #--------------------------
