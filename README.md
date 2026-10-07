@@ -38,8 +38,6 @@ The dataset includes indicators describing:
 
 The modelling dataset was built using complete observations across the selected variables. Continuous predictors were standardized, while skewed variables such as CO₂ emissions and electricity consumption were log-transformed where appropriate.
 
-The processed project dataset is not included in this repository. The original indicators are publicly available from the World Bank.
-
 ---
 
 ## RQ1 — Mixed-Effects Model with AR(1)
