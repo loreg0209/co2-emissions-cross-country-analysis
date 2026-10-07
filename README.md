@@ -181,27 +181,6 @@ The project demonstrates how econometric inference, machine learning and unsuper
 
 ---
 
-## Repository Structure
-
-```text
-co2-emissions-cross-country-analysis/
-├── R/
-│   ├── 01_rq1_mixed_effects.R
-│   ├── 02_rq2_machine_learning.R
-│   ├── 03_rq3_fair_residuals.R
-│   └── 04_rq4_clustering.R
-│
-├── docs/
-│   └── DSLabReport-2025.pdf
-│
-├── .gitignore
-└── README.md
-```
-
-The scripts are intended to be run in numerical order because later research questions reuse objects created during the RQ1 workflow.
-
----
-
 ## Report
 
 The complete project report, including methodology, diagnostics, figures and detailed interpretation, is available here:
