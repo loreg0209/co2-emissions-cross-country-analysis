@@ -1,7 +1,5 @@
 # Structural Drivers of Per-Capita CO₂ Emissions
 
-This project was developed for the **Data Science Lab** course at the University of Milano-Bicocca.
-
 The study investigates the structural drivers of per-capita CO₂ emissions across countries over time by combining **econometric modelling, machine learning, residual-based country analysis and clustering**.
 
 The analysis uses World Bank World Development Indicators and covers more than 100 countries over the period **1990–2021**.
